@@ -8,7 +8,7 @@ Navigo is a professional tool designed to analyze API specifications in JSON for
 5. Easy-to-Use Interface: A command-line tool with simple usage and clear output. Just provide the path to your JSON file, and Pathify does the rest.
 
 # Installation
-https://github.com/padayali-JD/Navigo.git
+git clone https://github.com/padayali-JD/Navigo.git
 
 cd navigo
 ## Usage
